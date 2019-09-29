@@ -22,11 +22,11 @@ WorkerManager::WorkerManager()
 
 void WorkerManager::update() 
 {
-	//updateWorkers1();
+	updateWorkers1();
 	
 	//updateWorkers2();	
 
-	updateWorkers3();
+	//updateWorkers3();
 }
 
 void WorkerManager::updateWorkers1()
