@@ -1,0 +1,23 @@
+﻿  ConstructionTask.cpp
+  ConstructionManager.cpp
+  ConstructionPlaceFinder.cpp
+  BuildOrderQueue.cpp
+  Common.cpp
+  Config.cpp
+  GameCommander.cpp
+  InformationManager.cpp
+  MapTools.cpp
+  MetaType.cpp
+  CommandUtil.cpp
+  MyBotModule.cpp
+  main.cpp
+  BuildManager.cpp
+  ScoutManager.cpp
+  StrategyManager.cpp
+  UnitData.cpp
+  UXManager.cpp
+  WorkerData.cpp
+  WorkerManager.cpp
+  Generating code
+  Finished generating code
+  BasicBot.vcxproj -> C:\Users\yoogle\Desktop\TBLL\AiStarcraftStudy\Release\BasicBot\BasicBot.exe
